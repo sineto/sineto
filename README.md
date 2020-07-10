@@ -14,8 +14,8 @@ My name is Sinésio Neto and I'm a brazilian Back-end/Fron-end Developer. I'm in
  - **Frameworks**: Nextjs, Gatsby, React Native
  - **Other tools**: GraphQL, Google Cloud Platform
   
-### ✔️ My Development Everionment:
- - **System Operation**: Arch Linux/Manjaro
+### ✔️ My Development Environment:
+ - **Operation System**: Arch Linux/Manjaro
  - **Windows Manager**: i3-gaps
  - **Terminal**: ZSH + Tmux + [Zinit](https://github.com/zdharma/zinit) + [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
  - **Editor**: NeoVim, VSCode
