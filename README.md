@@ -37,6 +37,6 @@ Meu nome é Sinésio Neto e sou Desenvolver Back-end/Front-end brasileiro. Estou
 - ✔️ Meu ambiente de desenvolvimento:
   - Sistema Operacional: Arch Linux/Manjaro
   - Gerenciador de Janelas: i3-gaps
-  - Terminal: ZSH + [Zinit](https://github.com/zdharma/zinit) + [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+  - Terminal: ZSH + Tmux + [Zinit](https://github.com/zdharma/zinit) + [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
   - Editor: NeoVim, VSCode
   - Ferramentas mais utilizadas: Git, Docker, httpie, Postman/Insomnia, [FZF](https://github.com/junegunn/fzf)
