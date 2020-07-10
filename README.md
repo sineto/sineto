@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi there! 🖖 EN
+My name is Sinésio Neto and I'm a brazilian Back-end/Fron-end Developer. I'm interested to improve my skills as a developer and learn about technologies/tools that will make my develop environment much better. So, welcome to my Github profile!
 
-<!--
-**sineto/sineto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :man_technologist: My current stack:
+  - Programming languages: JavaScript/Node.js
+  - Frameworks: Express.js, React
+  - Database: PostgreSQL, MongoDB, Firebase Firestore
+  - Other tools: Git, Docker, Linux;
+  
+- 📚 I’m currently learning: 
+  - Programming Languages: TypeScript, Golang 
+  - Frameworks: Nextjs, Gatsby, React Native
+  - Other tools: GraphQL, Google Cloud Platform
+  
+- ✔️ My Development Everionment:
+  - System Operation: Arch Linux/Manjaro
+  - Windows Manager: i3-gaps
+  - Terminal: ZSH + Tmux + [Zinit](https://github.com/zdharma/zinit) + [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+  - Editor: NeoVim, VSCode
+  - Most used tools: Git, Docker, httpie, Postman/Insomnia, [FZF](https://github.com/junegunn/fzf)
+  
+----------------------------
+### Olá! 🖖 PT-BR 🇧🇷
+Meu nome é Sinésio Neto e sou Desenvolver Back-end/Front-end brasileiro. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender tecnologias/ferramentas que irão fazer meu ambiente de desenvolvimento ainda melhor. Seja bem-vindo ao meu perfil no Github!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :man_technologist: Minha _stack_ de desenvolvimento atual:
+  - Linguagens de Programação: JavaScript/NodeJS
+  - Frameworks: Express.js, ReactJS 
+  - Banco de Dados: PostgreSQL, MongoDB, Firebase Firestore
+  - Outras ferramentas: Docker, Linux;
+  
+- 📚 Atualmente estou estudando: 
+  - Linguagens de Programação: TypeScript, Golang 
+  - Frameworks: Nextjs, Gatsby, React Native
+  - Outras ferramentas: GraphQL, Google Cloud Platform
+  
+- ✔️ Meu ambiente de desenvolvimento:
+  - Sistema Operacional: Arch Linux/Manjaro
+  - Gerenciador de Janelas: i3-gaps
+  - Terminal: ZSH + [Zinit](https://github.com/zdharma/zinit) + [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+  - Editor: NeoVim, VSCode
+  - Ferramentas mais utilizadas: Git, Docker, httpie, Postman/Insomnia, [FZF](https://github.com/junegunn/fzf)
