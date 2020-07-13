@@ -1,10 +1,10 @@
 # Sinésio Neto :man_technologist:
 
 ## Hi there! 🖖 EN
-My name is Sinésio Neto and I'm a brazilian Back-end/Fron-end Developer. I'm interested to improve my skills as a developer and learn about technologies/tools that will make my develop environment much better. So, welcome to my Github profile!
+My name is Sinésio Neto and I'm a brazilian Back-end/Front-end Developer. I'm interested to improve my skills as a developer and learn about technologies/tools that will make my development environment much better. So, welcome to my Github profile!
 
 ### :man_technologist: My current stack:
- - **Programming languages**: JavaScript/Node.js
+ - **Programming Languages**: JavaScript
  - **Frameworks**: Express.js, React
  - **Database**: PostgreSQL, MongoDB, Firebase Firestore
  - **Other tools**: Git, Docker, Linux;
@@ -26,7 +26,7 @@ My name is Sinésio Neto and I'm a brazilian Back-end/Fron-end Developer. I'm in
 Meu nome é Sinésio Neto e sou Desenvolver Back-end/Front-end brasileiro. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender tecnologias/ferramentas que irão fazer meu ambiente de desenvolvimento ainda melhor. Seja bem-vindo ao meu perfil no Github!
 
 ### :man_technologist: Minha _stack_ de desenvolvimento atual:
- - **Linguagens de Programação**: JavaScript/NodeJS
+ - **Linguagens de Programação**: JavaScript
  - **Frameworks**: Express.js, ReactJS 
  - **Banco de Dados**: PostgreSQL, MongoDB, Firebase Firestore
  - **Outras ferramentas**: Docker, Linux;
