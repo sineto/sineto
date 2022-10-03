@@ -7,12 +7,12 @@ My name is Sinésio Neto and I'm a brazilian Back-end/Front-end Developer. I'm i
  - **Programming Languages**: JavaScript/TypeScript
  - **Frameworks**: Express.js, Reactjs, Nextjs
  - **Database**: PostgreSQL, MongoDB, Firebase Firestore
- - **Other tools**: Git, Docker, Linux;
+ - **Other tools**: AWS, Terraform, Ansible, Git, Docker, Linux;
   
 ### 📚 I’m currently learning: 
  - **Programming Languages**: Golang 
  - **Frameworks**: ...
- - **Other tools**: AWS, Terraform, Ansible
+ - **Other tools**: Azure
   
 ### ✔️ My Development Environment:
  - **Operation System**: Arch Linux
@@ -29,12 +29,12 @@ Meu nome é Sinésio Neto e sou Desenvolver Back-end/Front-end brasileiro. Estou
  - **Linguagens de Programação**: JavaScript/TypeScript
  - **Frameworks**: Express.js, Reactjs, Nextjs 
  - **Banco de Dados**: PostgreSQL, MongoDB, Firebase Firestore
- - **Outras ferramentas**: Git, Docker, Linux;
+ - **Outras ferramentas**: AWS, Terraform, Ansible, Git, Docker, Linux;
   
 ### 📚 Atualmente estou estudando: 
  - **Linguagens de Programação**: Golang 
  - **Frameworks**: ...
- - **Outras ferramentas**: AWS, Terraform, Ansible
+ - **Outras ferramentas**: Azure
   
 ### ✔️ Meu ambiente de desenvolvimento:
  - **Sistema Operacional**: Arch Linux
