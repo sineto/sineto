@@ -12,11 +12,11 @@ My name is Sinésio Neto and I'm a brazilian Back-end/Front-end Developer. I'm i
 ### 📚 I’m currently learning: 
  - **Programming Languages**: Python (pending) 
  - **Frameworks**: ...
- - **Other tools**: [LXC/incus](https://linuxcontainers.org)
+ - **Other tools**: [LXC/incus](https://linuxcontainers.org), [Kubernetes](https://kubernetes.io)
   
 ### ✔️ My Development Environment:
  - **Operation System**: Arch Linux + [Omarchy](https://omarchy.org)
  - **Windows Manager**: i3-gaps, Hyprland
  - **Terminal**: ZSH + Tmux + [Zinit](https://github.com/zdharma/zinit) + [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
  - **Editor**: NeoVim, GoLand
- - **Most used tools**: GoLand/NeoVim, Podman, httpie, DBeaver, [FZF](https://github.com/junegunn/fzf), [LXC/incus](https://linuxcontainers.org)
+ - **Most used tools**: NeoVim/GoLand, Podman, httpie, DBeaver, [FZF](https://github.com/junegunn/fzf), [LXC/incus](https://linuxcontainers.org)
